@@ -1,4 +1,4 @@
-# sinatra-env
+# jruby-sinatra-env
 
 This is a simple sinatra application that displays request environment
 data and allows testing of simple form posts.
